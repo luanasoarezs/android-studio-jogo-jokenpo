@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jokenpo</string>
+    <string name="textview1">O app escolheu:</string>
+    <string name="textview2">Escolha uma opção abaixo!</string>
+    <string name="YOU_LOSE">Você perdeu D:</string>
+    <string name="YOU_WIN">Você ganhou! :D com %1$s</string>
+    <string name="TIE">Empatamos! :v</string>
+</resources>
